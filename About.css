@@ -5,7 +5,6 @@
 .u-section-1 .u-group-1 {
   width: 800px;
   min-height: 261px;
-  height: auto;
   margin: 60px auto;
 }
 
@@ -14,17 +13,11 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 0 auto 0 10px;
+  margin: 15px auto 0 10px;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 22px 0 0 10px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-group-1 {
-    height: auto;
-  }
+  margin: 15px 10px 0 0;
 }
 
 @media (max-width: 991px) {
@@ -37,7 +30,7 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 0;
+    margin-right: 0;
   }
 }
 
