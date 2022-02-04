@@ -13,7 +13,7 @@
   border-style: solid;
   font-weight: 700;
   text-transform: uppercase;
-  margin: -704px auto 0 385px;
+  margin: -663px auto 0 378px;
   padding: 8px 89px;
 }
 
@@ -94,9 +94,15 @@
     min-height: 2223px;
   }
 
+  .u-section-1 .u-custom-html-1 {
+    min-height: 2223px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-1 .u-btn-1 {
     margin-top: -1233px;
-    margin-left: 64px;
+    margin-left: 62px;
   }
 
   .u-section-1 .u-btn-2 {
